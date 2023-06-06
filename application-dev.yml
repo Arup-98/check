@@ -1,6 +1,6 @@
 spring:
   application:
-      name: book-service1
+      name: book-service10
  eureka:
    instance:
      prefer-ip-address: true
